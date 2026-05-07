@@ -1,0 +1,1 @@
+Two pointers at the edges. Area = min(left, right) * width. Move the smaller side—it limits the water.

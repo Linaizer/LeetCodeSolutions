@@ -1,0 +1,1 @@
+Sort array. Fix i, two pointers from i+1 to end. If sum < 0 → left++, if sum > 0 → right--. Skip duplicates to avoid repeated triplets.
